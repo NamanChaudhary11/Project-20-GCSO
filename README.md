@@ -1,2 +1,2 @@
-# Project-20-GCSO
-Based upon the collision detection algorithm :)
+# p5.play-boilerplate
+Boiler plate for p5.play
